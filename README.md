@@ -24,10 +24,7 @@ I'm currently learning **Web Development** — building skills in HTML, CSS, Jav
 
 ---
 
-## 🚀 Projects Coming Soon
-- Portfolio Website 🌐
-- JavaScript Game 🎮
-- Responsive Blog Template ✍️
+
 
 Thanks for visiting! ⭐ Feel free to follow or connect!
 
