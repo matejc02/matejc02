@@ -1,5 +1,5 @@
 
-- Student at the [Faculty of Organization and Informatics](https://www.foi.unizg.hr/
+- Student at the [Faculty of Organization and Informatics](https://www.foi.unizg.hr/)
 - 🌱 I’m currently learning modern frameworks (React, Angular)
 # 👋 Hi there! I'm Matej
 
